@@ -4219,20 +4219,17 @@ const user = await trpc.getUser.query({ id: '123' }); // type-safe!
 **[⬆ Back to Top](#table-of-contents)**
 
 <br>
-
----
+<br>
 
 <div align="center">
 
 ## 🎉 You've covered all 100 MERN Stack Interview Questions!
 
----
 
 **If this repo helped you prepare, please give it a ⭐**
 
 [![Star this repo](https://img.shields.io/github/stars/sisi-tarak/mern-interview-questions?style=social)](https://github.com/sisi-tarak/mern-interview-questions)
 
----
 
 ### 📲 Follow Sisi for more tech interview prep content
 
